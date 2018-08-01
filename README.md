@@ -1,2 +1,2 @@
 # spring-cloud-finchley-demo
-spring cloud 联系使用git配置中心
+spring cloud 练习使用git配置中心
