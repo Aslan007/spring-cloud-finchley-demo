@@ -3,3 +3,5 @@ info:
   
 server:
   port: 2106
+  
+version: client-git-1.0
